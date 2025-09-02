@@ -1,4 +1,4 @@
-## Simon Nilsson
+## Hej hå
 
-Detta är en readme för profilen.
-Den har ✨ingen✨ vettig text än.
+Jag har precis skapat ett konto och börjat med github.
+Detta konto kommer bara användas för uppgifter från Mittuniversitetet.
